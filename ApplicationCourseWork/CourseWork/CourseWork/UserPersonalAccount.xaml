@@ -1,0 +1,44 @@
+﻿<Window x:Class="CourseWork.UserPersonalAccount"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CourseWork"
+        mc:Ignorable="d"
+        Title="UserPersonalAccount" Height="800" Width="1200" ResizeMode="NoResize" WindowStyle="SingleBorderWindow">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="352*"/>
+            <RowDefinition Height="433*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="703*"/>
+            <ColumnDefinition Width="497*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="C:\Coursework\ApplicationCourseWork\CourseWork\images\1.jpg" Stretch="Fill" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+        <DataGrid x:Name="ShoppingCartDataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="443,64,409,140" Grid.ColumnSpan="2"/>
+        <Button Content="Buy" Click="ProcedureBuyTicket" HorizontalAlignment="Left" Margin="443,233,0,0" VerticalAlignment="Top" Height="26" Width="110"/>
+        <Button Content="Clear Shopping Cart" Click="ClearShoppingCartProcedure" HorizontalAlignment="Left" Margin="558,233,0,0" VerticalAlignment="Top" Height="26" Width="123"/>
+        <TextBox x:Name="TicketIDForDelete_TextBox" HorizontalAlignment="Left" Margin="690,237,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="102" Grid.ColumnSpan="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="17,216,0,0" TextWrapping="Wrap" Text="TicketID" VerticalAlignment="Top" Foreground="White" Grid.Column="1"/>
+        <Button Content="Delete" Click="DeleteFromShoppingCartProcedure" HorizontalAlignment="Left" Margin="690,262,0,0" VerticalAlignment="Top" Height="23" Width="102" Grid.ColumnSpan="2"/>
+        <DataGrid x:Name="PurchaseHistoryDataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="178,60,125,246" Grid.Row="1"/>
+        <Label Content="Purchase History" HorizontalAlignment="Left" Margin="303,19,0,0" VerticalAlignment="Top" Foreground="White" FontSize="16" FontWeight="Medium" Grid.Row="1"/>
+        <Label Content="Shopping Cart" HorizontalAlignment="Left" Margin="558,32,0,0" VerticalAlignment="Top" Foreground="White" FontSize="16" FontWeight="Medium"/>
+        <Button Content="Exit" Click="Button_Click" HorizontalAlignment="Left" Margin="391,10,0,0" VerticalAlignment="Top" Height="29" Width="96" Grid.Column="1"/>
+        <TextBox x:Name="SaleIDForRefund" HorizontalAlignment="Center" Margin="0,218,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="168" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="336,198,0,0" TextWrapping="Wrap" Text="SaleID" VerticalAlignment="Top" Foreground="White" Grid.Row="1" Width="35"/>
+        <Button Content="Ask For Refund" Click="ProcedureAskForRefund" HorizontalAlignment="Center" Margin="0,299,0,0" VerticalAlignment="Top" Height="23" Width="168" Grid.Row="1"/>
+        <TextBox x:Name="MessageTextForRefund" HorizontalAlignment="Center" Margin="0,264,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="168" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,243,0,0" TextWrapping="Wrap" Text="Message text" VerticalAlignment="Top" Foreground="White" Grid.Row="1" Width="74"/>
+        <DataGrid x:Name="UserQuestionsDataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="609,59,215,246" Grid.ColumnSpan="2" Grid.Row="1" SelectionChanged="UserQuestionsDataGrid_SelectionChanged"/>
+        <TextBox x:Name="QuestionCreation_TextBox" HorizontalAlignment="Left" Margin="688,218,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="208" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="57,197,0,0" TextWrapping="Wrap" Text="Question" VerticalAlignment="Top" Foreground="White" FontSize="14" Grid.Row="1" Grid.Column="1"/>
+        <Button Click="ProcedureCreateUserQuestion" Content="Create Question" HorizontalAlignment="Left" Margin="688,244,0,0" VerticalAlignment="Top" Width="208" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <Label Content="Ask a question to the manager" HorizontalAlignment="Left" Margin="672,19,0,0" VerticalAlignment="Top" Foreground="White" FontSize="16" FontWeight="Medium" Grid.Row="1" Grid.ColumnSpan="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="107,88,0,0" TextWrapping="Wrap" Text="Number of tickets:" VerticalAlignment="Top" Grid.Column="1" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="107,109,0,0" TextWrapping="Wrap" Text="Final cost:" VerticalAlignment="Top" Grid.Column="1" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" x:Name="numberoftickets" Margin="211,87,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Grid.Column="1" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" x:Name="finalcost" Margin="166,108,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Grid.Column="1" Foreground="White"/>
+    </Grid>
+</Window>

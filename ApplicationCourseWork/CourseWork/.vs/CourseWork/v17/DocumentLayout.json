@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|c:\\coursework\\applicationcoursework\\coursework\\coursework\\moderatorpersonalaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\moderatorpersonalaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\moderatorpersonalaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\moderatorpersonalaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\maincatalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\maincatalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\maincatalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\maincatalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\audit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\audit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\userpersonalaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\userpersonalaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\managerregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\managerregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\organizerpersonalaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\organizerpersonalaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\organizerpersonalaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\organizerpersonalaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\userpersonalaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\userpersonalaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\organizerregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\organizerregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\prodpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\prodpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\audit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\audit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\oracle.dataaccess.common.configuration.section.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\oracle.dataaccess.common.configuration.section.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\prodpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\prodpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\userregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\userregistration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\organizerregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\organizerregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\managerregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\managerregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\userregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\userregistration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\oracle.manageddataaccess.client.configuration.section.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\oracle.manageddataaccess.client.configuration.section.xsd||{DEE6CEF9-3BCA-449A-82A6-FC757D6956FB}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|C:\\Coursework\\ApplicationCourseWork\\CourseWork\\coursework\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6DEC825-3B35-4EE3-B4F8-B11B4C398150}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModeratorPersonalAccount.xaml.cs",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ModeratorPersonalAccount.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\ModeratorPersonalAccount.xaml.cs",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ModeratorPersonalAccount.xaml.cs",
+              "RelativeToolTip": "CourseWork\\ModeratorPersonalAccount.xaml.cs",
+              "ViewState": "AQIAAEADAAAAAAAAAIA7wFADAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:04:14.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagerRegistration.xaml.cs",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ManagerRegistration.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\ManagerRegistration.xaml.cs",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ManagerRegistration.xaml.cs",
+              "RelativeToolTip": "CourseWork\\ManagerRegistration.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:30:28.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserPersonalAccount.xaml",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\UserPersonalAccount.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\UserPersonalAccount.xaml",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\UserPersonalAccount.xaml",
+              "RelativeToolTip": "CourseWork\\UserPersonalAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T14:39:42.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrganizerRegistration.xaml.cs",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\OrganizerRegistration.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\OrganizerRegistration.xaml.cs",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\OrganizerRegistration.xaml.cs",
+              "RelativeToolTip": "CourseWork\\OrganizerRegistration.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAEgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:43:34.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CourseWork\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:29:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManagerRegistration.xaml",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ManagerRegistration.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\ManagerRegistration.xaml",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ManagerRegistration.xaml",
+              "RelativeToolTip": "CourseWork\\ManagerRegistration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T10:42:52.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModeratorPersonalAccount.xaml",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ModeratorPersonalAccount.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\ModeratorPersonalAccount.xaml",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ModeratorPersonalAccount.xaml",
+              "RelativeToolTip": "CourseWork\\ModeratorPersonalAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T14:37:23.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProdPage.xaml.cs",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ProdPage.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\ProdPage.xaml.cs",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ProdPage.xaml.cs",
+              "RelativeToolTip": "CourseWork\\ProdPage.xaml.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwCIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:47:19.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\MainWindow.xaml",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\MainWindow.xaml",
+              "RelativeToolTip": "CourseWork\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T14:10:19.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainCatalog.xaml.cs",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\MainCatalog.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\MainCatalog.xaml.cs",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\MainCatalog.xaml.cs",
+              "RelativeToolTip": "CourseWork\\MainCatalog.xaml.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAAawDgBAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:45:20.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainCatalog.xaml",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\MainCatalog.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\MainCatalog.xaml",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\MainCatalog.xaml",
+              "RelativeToolTip": "CourseWork\\MainCatalog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T23:45:21.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Oracle.ManagedDataAccess.Client.Configuration.Section.xsd [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\Oracle.ManagedDataAccess.Client.Configuration.Section.xsd",
+              "RelativeDocumentMoniker": "CourseWork\\Oracle.ManagedDataAccess.Client.Configuration.Section.xsd",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\Oracle.ManagedDataAccess.Client.Configuration.Section.xsd [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "RelativeToolTip": "CourseWork\\Oracle.ManagedDataAccess.Client.Configuration.Section.xsd [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-02T16:28:00.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserPersonalAccount.xaml.cs",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\UserPersonalAccount.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\UserPersonalAccount.xaml.cs",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\UserPersonalAccount.xaml.cs",
+              "RelativeToolTip": "CourseWork\\UserPersonalAccount.xaml.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAADwv8YAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:26:55.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrganizerRegistration.xaml",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\OrganizerRegistration.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\OrganizerRegistration.xaml",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\OrganizerRegistration.xaml",
+              "RelativeToolTip": "CourseWork\\OrganizerRegistration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T16:27:49.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Audit.xaml.cs",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\Audit.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\Audit.xaml.cs",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\Audit.xaml.cs",
+              "RelativeToolTip": "CourseWork\\Audit.xaml.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:47:21.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserRegistration.xaml",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\UserRegistration.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\UserRegistration.xaml",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\UserRegistration.xaml",
+              "RelativeToolTip": "CourseWork\\UserRegistration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T06:32:18.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrganizerPersonalAccount.xaml",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\OrganizerPersonalAccount.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\OrganizerPersonalAccount.xaml",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\OrganizerPersonalAccount.xaml",
+              "RelativeToolTip": "CourseWork\\OrganizerPersonalAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T08:36:59.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrganizerPersonalAccount.xaml.cs",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\OrganizerPersonalAccount.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\OrganizerPersonalAccount.xaml.cs",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\OrganizerPersonalAccount.xaml.cs",
+              "RelativeToolTip": "CourseWork\\OrganizerPersonalAccount.xaml.cs",
+              "ViewState": "AQIAAH0BAAAAAAAAAAAkwJUBAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:18:05.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRegistration.xaml.cs",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\UserRegistration.xaml.cs",
+              "RelativeDocumentMoniker": "CourseWork\\UserRegistration.xaml.cs",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\UserRegistration.xaml.cs",
+              "RelativeToolTip": "CourseWork\\UserRegistration.xaml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T23:20:55.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Audit.xaml",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\Audit.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\Audit.xaml",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\Audit.xaml",
+              "RelativeToolTip": "CourseWork\\Audit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T17:40:30.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Oracle.DataAccess.Common.Configuration.Section.xsd [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\Oracle.DataAccess.Common.Configuration.Section.xsd",
+              "RelativeDocumentMoniker": "CourseWork\\Oracle.DataAccess.Common.Configuration.Section.xsd",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\Oracle.DataAccess.Common.Configuration.Section.xsd [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "RelativeToolTip": "CourseWork\\Oracle.DataAccess.Common.Configuration.Section.xsd [\u041F\u0440\u043E\u0435\u043A\u0442]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-09T17:41:06.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProdPage.xaml",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ProdPage.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\ProdPage.xaml",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\ProdPage.xaml",
+              "RelativeToolTip": "CourseWork\\ProdPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T23:47:20.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\App.xaml",
+              "RelativeDocumentMoniker": "CourseWork\\App.xaml",
+              "ToolTip": "C:\\Coursework\\ApplicationCourseWork\\CourseWork\\CourseWork\\App.xaml",
+              "RelativeToolTip": "CourseWork\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-01T23:48:00.408Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

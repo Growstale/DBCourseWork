@@ -1,0 +1,25 @@
+﻿<Window x:Class="CourseWork.ProdPage"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+		xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+		xmlns:local="clr-namespace:CourseWork"
+		mc:Ignorable="d"
+		Title="ProdPage" Height="600" Width="1000" ResizeMode="NoResize" WindowStyle="SingleBorderWindow">
+    <Grid>
+        <Image Source="C:\Coursework\ApplicationCourseWork\CourseWork\images\1.jpg" Stretch="Fill"/>
+        <Rectangle HorizontalAlignment="Left" Height="203" Margin="88,309,0,0" Stroke="White" VerticalAlignment="Top" Width="226" Fill="White"/>
+        <TextBox x:Name="TextOfCommentForCreation_TextBox" HorizontalAlignment="Left" Margin="128,359,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="146"/>
+        <TextBlock HorizontalAlignment="Left" Margin="128,338,0,0" TextWrapping="Wrap" Text="Your Comment" VerticalAlignment="Top"/>
+        <TextBox x:Name="RatingForCreation_TextBox" HorizontalAlignment="Left" Margin="128,419,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="146"/>
+        <TextBlock HorizontalAlignment="Left" Margin="128,398,0,0" TextWrapping="Wrap" Text="Your Assessment" VerticalAlignment="Top"/>
+        <Button Click="ProcedureCreateComment" Content="Send" HorizontalAlignment="Left" Margin="144,465,0,0" VerticalAlignment="Top" Width="114"/>
+        <TextBlock HorizontalAlignment="Left" Margin="673,275,0,0" TextWrapping="Wrap" Text="Comments" VerticalAlignment="Top" Foreground="White" FontSize="18" FontWeight="SemiBold"/>
+        <Button Click="Exit" Content="Exit" HorizontalAlignment="Left" Margin="844,22,0,0" VerticalAlignment="Top" Width="125"/>
+        <DataGrid x:Name="EventScheduleDataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="88,138,88,318"/>
+        <DataGrid x:Name="CommentsDataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="516,309,88,48"/>
+        <DataGrid  x:Name="EventDataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="88,53,88,461"/>
+        <TextBlock HorizontalAlignment="Left" Margin="128,275,0,0" TextWrapping="Wrap" Text="Write a comment" VerticalAlignment="Top" Foreground="White" FontSize="18" FontWeight="SemiBold"/>
+
+    </Grid>
+</Window>
